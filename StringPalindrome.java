@@ -23,3 +23,4 @@ public class StringPalindrome {
         System.out.println(f.apply(str));
     }
 }
+
